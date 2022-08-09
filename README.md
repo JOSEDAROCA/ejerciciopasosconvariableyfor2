@@ -1,2 +1,2 @@
-# ejerciciopasosconvariableyfor2
+# ejerciciopasosconvariableyfor
 Created with CodeSandbox
